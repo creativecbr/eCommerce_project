@@ -2,7 +2,7 @@
 Project for Biznes Elektroniczny - eCommerce shop
 
 ## Authors
-Paweł Leśniewski
-Łukasz Skołd
-Łukasz Zdziarski
-Laura Zembrzuska
+Paweł Leśniewski  
+Łukasz Skołd  
+Łukasz Zdziarski  
+Laura Zembrzuska  
