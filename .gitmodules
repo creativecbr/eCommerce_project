@@ -1,0 +1,3 @@
+[submodule "shop_tester"]
+	path = shop_tester
+	url = https://github.com/creativecbr/shop_tester
