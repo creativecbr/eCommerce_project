@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  ubrokeit:
+    container_name: ubrokeit
+    build: .
+    ports:
+      - "8080:80"
+      - "8443:443"
+  biznes-db:
+    container_name: biznes-db
+    image: mysql:5.6

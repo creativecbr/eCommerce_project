@@ -1,7 +1,7 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => 'presta-mysql',
+    'database_host' => 'biznes-db',
     'database_port' => '',
     'database_name' => 'prestashop',
     'database_user' => 'root',
