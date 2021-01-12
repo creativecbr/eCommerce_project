@@ -32,6 +32,7 @@ mysql -u root -padmin prestashop < /tmp/dump.sql
 
 # Enter MySQL once again
 mysql -u root -padmin
+USE prestashop;
 UPDATE `ps_configuration` SET `value` = NULL WHERE `ps_configuration`.`id_configuration` = 9;
 UPDATE `ps_shop_url` SET `domain` = '${DOMAIN}', `domain_ssl` = '${DOMAIN_SSL}' WHERE `ps_shop_url`.`id_shop_url` = 1;
 exit;
