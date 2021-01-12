@@ -76,9 +76,9 @@ mysql -p$PASS -e "CREATE USER IF NOT EXISTS '${USER}'@'%' IDENTIFIED BY '${USR_P
 mysql -p$PASS -e "GRANT ALL PRIVILEGES ON ${DB}.* TO '${USER}'@'%';"
 mysql -p$PASS -e "FLUSH PRIVILEGES;"
 
+mysql -u $USER -p$USR_PASS $DB < $DUMP_PATH
+
 # Modify field in dump.sql
 mysql -u $USER -p$USR_PASS $DB -e "UPDATE `ps_configuration` SET `value` = NULL WHERE `ps_configuration`.`id_configuration` = 9;"
 mysql -u $USER -p$USR_PASS $DB -e "UPDATE `ps_shop_url` SET `domain` = '${DOMAIN}', `domain_ssl` = '${DOMAIN_SSL}' WHERE `ps_shop_url`.`id_shop_url` = 1;"
-
-mysql -u $USER -p$USR_PASS $DB < $DUMP_PATH
 
