@@ -2,8 +2,8 @@
 <module>
     <name>ps_crossselling</name>
     <displayName><![CDATA[Sprzedaż łączona]]></displayName>
-    <version><![CDATA[2.0.0]]></version>
-    <description><![CDATA[Dodaje, sekcję &quot;Klienci, kt&oacute;rzy zakupili ten produkt, kupili r&oacute;wnież...&quot; na każdej stronie produktu.]]></description>
+    <version><![CDATA[2.0.1]]></version>
+    <description><![CDATA[Offer your customers the possibility to buy matching items when on a product page.]]></description>
     <author><![CDATA[PrestaShop]]></author>
     <tab><![CDATA[]]></tab>
     <is_configurable>1</is_configurable>

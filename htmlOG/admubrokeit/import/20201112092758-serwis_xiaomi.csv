@@ -1,0 +1,1331 @@
+Product ID;Active (0/1);Name *;Categories (x,y,z...);Price tax included;Tax rules ID;Wholesale price;On sale (0/1);Discount amount;Discount percent;Discount from (yyyy-mm-dd);Discount to (yyyy-mm-dd);Supplier;Manufacturer;Quantity;Minimal quantity;Low stock level;Send me an email when the quantity is under this level;Visibility;Summary;Description;Meta title;URL rewritten;Text when in stock;Text when backorder allowed;Show price (0 = No, 1 = Yes);Image URLs (x,y,z...);Delete existing images (0 = No, 1 = Yes);Condition;Customizable (0 = No, 1 = Yes);Out of stock action;Available for order (0 = No, 1 = Yes);Tags
+;1;Naprawa Pocophone F1;Serwis GSM/Xiaomi;100.00;1;100.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Pocophone F1;naprawa-pocophone-f1;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/pokofon.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,pocophone,f
+;1;Naprawa Xiaomi A2;Serwis GSM/Xiaomi;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi A2;naprawa-xiaomi-a2;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-19.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,a
+;1;Naprawa Xiaomi A2 Lite;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi A2 Lite;naprawa-xiaomi-a2-lite;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-10.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,a2,lit
+;1;Naprawa Xiaomi Mi 4C;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi 4C;naprawa-xiaomi-mi-4c;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-mi-4c.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,4
+;1;Naprawa Xiaomi Mi 6;Serwis GSM/Xiaomi;110.00;1;110.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi 6;naprawa-xiaomi-mi-6;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-mi-6.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,
+;1;Naprawa Xiaomi Mi 9;Serwis GSM/Xiaomi;160.00;1;160.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi 9;naprawa-xiaomi-mi-9;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-14.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,
+;1;Naprawa Xiaomi Mi A1;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi A1;naprawa-xiaomi-mi-a1;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-mi-a1.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,a
+;1;Naprawa Xiaomi Mi A2 Lite;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi A2 Lite;naprawa-xiaomi-mi-a2-lite;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-mi-a2-lite.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,a2,lit
+;1;Naprawa Xiaomi Mi Max;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi Max;naprawa-xiaomi-mi-max;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-Mi-Max.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,ma
+;1;Naprawa Xiaomi Mi Max 2;Serwis GSM/Xiaomi;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu Xiaomi Mi Max 2</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu Xiaomi Mi Max 2</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi Max 2;naprawa-xiaomi-mi-max-2;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-mi-max-2.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,max,
+;1;Naprawa Xiaomi Mi Mix 2;Serwis GSM/Xiaomi;150.00;1;150.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi Mix 2;naprawa-xiaomi-mi-mix-2;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-mi-mix-2.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,mix,
+;1;Naprawa Xiaomi Mi Mix 2s;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Mi Mix 2s;naprawa-xiaomi-mi-mix-2s;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-mi-mix-2.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,mi,mix,2
+;1;Naprawa Xiaomi Redmi 3 3S;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi 3 3S;naprawa-xiaomi-redmi-3-3s;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-Redmi-3S-1.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,3,3
+;1;Naprawa Xiaomi Redmi 4A;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi 4A;naprawa-xiaomi-redmi-4a;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-Redmi-4A.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,4
+;1;Naprawa Xiaomi Redmi 4X;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi 4X;naprawa-xiaomi-redmi-4x;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-Redmi-4X.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,4
+;1;Naprawa Xiaomi Redmi 5 Plus;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi 5 Plus;naprawa-xiaomi-redmi-5-plus;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/redmi-5-plus.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,5,plu
+;1;Naprawa Xiaomi Redmi 6;Serwis GSM/Xiaomi;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu Xiaomi Redmi 6</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu Xiaomi Redmi 6</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu Xiaomi Redmi 6?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+<h3>Dostępne naprawy: Wymiana szybki aparatu głównego (90zł), Wymiana mikrofonu (150zł), Wymiana pękniętej szybki (160zł), Wymiana wejścia USB (160zł), Wymiana wyświetlacza (250zł)</h3>
+</div>";Naprawa Xiaomi Redmi 6;naprawa-xiaomi-redmi-6;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-redmi-6.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,
+;1;Naprawa Xiaomi Redmi 6A;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi 6A;naprawa-xiaomi-redmi-6a;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-11.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,6
+;1;Naprawa Xiaomi Redmi 7;Serwis GSM/Xiaomi;150.00;1;150.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi 7;naprawa-xiaomi-redmi-7;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-9.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,
+;1;Naprawa Xiaomi Redmi 7A;Serwis GSM/Xiaomi;200.00;1;200.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h3>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Xiaomi Redmi 7A</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h3>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Xiaomi Redmi 7A</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w dowolnym paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób</li>
+</ol>
+<h3>Najczęściej zadawane pytania</h3>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu Xiaomi Redmi 7A nie wyświetla poprawnie obrazu czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone, zalecamy jednak wykonanie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi 7A;naprawa-xiaomi-redmi-7a;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/12/92feb9c4-c347-439a-ad19-1876e0ba735c_1-2.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,7
+;1;Naprawa Xiaomi Redmi Note 2;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 2;naprawa-xiaomi-redmi-note-2;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-Redmi-Note-2.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,
+;1;Naprawa Xiaomi Redmi Note 3;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 3;naprawa-xiaomi-redmi-note-3;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-Redmi-Note-3.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,
+;1;Naprawa Xiaomi Redmi Note 3 Pro;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 3 Pro;naprawa-xiaomi-redmi-note-3-pro;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-redmi-note-3-pro.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,3,pr
+;1;Naprawa Xiaomi Redmi Note 4;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 4;naprawa-xiaomi-redmi-note-4;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/xiaomi-Redmi-Note-4.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,
+;1;Naprawa Xiaomi Redmi Note 4X;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 4X;naprawa-xiaomi-redmi-note-4x;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/xiaomi-redmi-note-4x.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,4
+;1;Naprawa Xiaomi Redmi Note 5;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 5;naprawa-xiaomi-redmi-note-5;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/redmi-note-5-pro.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,
+;1;Naprawa Xiaomi Redmi Note 5 Pro;Serwis GSM/Xiaomi;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 5 Pro;naprawa-xiaomi-redmi-note-5-pro;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/11/redmi-note-5-pro.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,5,pr
+;1;Naprawa Xiaomi Redmi Note 5A;Serwis GSM/Xiaomi;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 5A;naprawa-xiaomi-redmi-note-5a;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/03/Xiaomi-Redmi-Note-5A.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,5
+;1;Naprawa Xiaomi Redmi Note 7;Serwis GSM/Xiaomi;0.00;1;0.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 7;naprawa-xiaomi-redmi-note-7;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-8.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,
+;1;Naprawa Xiaomi Redmi Note 8;Serwis GSM/Xiaomi;200.00;1;200.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h3>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Xiaomi Redmi Note 8</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h3>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Xiaomi Redmi Note 8</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w dowolnym paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób</li>
+</ol>
+<h3>Najczęściej zadawane pytania</h3>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu Xiaomi Redmi Note  nie wyświetla poprawnie obrazu czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone, zalecamy jednak wykonanie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 8;naprawa-xiaomi-redmi-note-8;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/12/92feb9c4-c347-439a-ad19-1876e0ba735c_1.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,
+;1;Naprawa Xiaomi Redmi Note 8 Pro;Serwis GSM/Xiaomi;180.00;1;180.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h3>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Xiaomi Redmi Note 8 Pro</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h3>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Xiaomi Redmi Note 8 Pro</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w dowolnym paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób</li>
+</ol>
+<h3>Najczęściej zadawane pytania</h3>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu Xiaomi Redmi Note 8 Pro nie wyświetla poprawnie obrazu czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone, zalecamy jednak wykonanie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Xiaomi Redmi Note 8 Pro;naprawa-xiaomi-redmi-note-8-pro;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/12/92feb9c4-c347-439a-ad19-1876e0ba735c_1-3.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,xiaomi,redmi,note,8,pr

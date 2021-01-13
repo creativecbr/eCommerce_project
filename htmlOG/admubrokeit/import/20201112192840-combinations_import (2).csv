@@ -1,0 +1,10 @@
+Product ID*;Attribute (Name:Type:Position)*;Value (Value:Position)*;Wholesale price;Impact on price;Quantity;Minimal quantity;Low stock level;
+1079;Rodzaj naprawy:select:0;Naprawa aparatu tylnego:0;80;8.13;10;1;0
+1079;Rodzaj naprawy:select:0;Naprawa glosnika:0;100;8.13;10;1;0
+1079;Rodzaj naprawy:select:0;Naprawa glosnika rozmów:0;100;0;10;1;0
+1079;Rodzaj naprawy:select:0;Naprawa mikrofonu:0;100;24.39;10;1;0
+1079;Rodzaj naprawy:select:0;Naprawa przycisku home:0;100;8.13;10;1;0
+1079;Rodzaj naprawy:select:0;Wymiana baterii:0;100;8.13;10;1;0
+1079;Rodzaj naprawy:select:0;Wymiana szybki:0;100;56.91;10;1;0
+1079;Rodzaj naprawy:select:0;Wymiana wyswietlacza:0;100;73.17;10;1;0
+

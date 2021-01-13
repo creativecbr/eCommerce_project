@@ -5,7 +5,7 @@
     'database_port' => '',
     'database_name' => 'prestashop',
     'database_user' => 'root',
-    'database_password' => 'Biznes123$',
+    'database_password' => 'admin',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',

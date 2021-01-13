@@ -1,0 +1,1342 @@
+Product ID;Active (0/1);Name *;Categories (x,y,z...);Price tax included;Tax rules ID;Wholesale price;On sale (0/1);Discount amount;Discount percent;Discount from (yyyy-mm-dd);Discount to (yyyy-mm-dd);Supplier;Manufacturer;Quantity;Minimal quantity;Low stock level;Send me an email when the quantity is under this level;Visibility;Summary;Description;Meta title;URL rewritten;Text when in stock;Text when backorder allowed;Show price (0 = No, 1 = Yes);Image URLs (x,y,z...);Delete existing images (0 = No, 1 = Yes);Condition;Customizable (0 = No, 1 = Yes);Out of stock action;Available for order (0 = No, 1 = Yes);Tags
+;1;Naprawa Galaxy S5;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej. Przy wymianie wyświetlacza lub szybki prosimy o podanie wersji kolorystycznej telefonu w dodatkowych informacjach. Możesz skorzystać z usługi door to door zaznaczając odbiór urządzenia przez kuriera poniżej lub wysłać w dowolny sposób na nasz adres: Telefonek, Porządzie 120, 07-205 Rząśnik.
+";"<div class=""tab-content-scroll"">
+<h1>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h1>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie przesyłki maksymalnie o wymiarach 25cm x 25cm x 10cm.</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować).</li>
+<li>Odbiór naprawionego urządzenia zwykle po 3 dniach od kuriera lub w inny wybrany przez klienta sposób.</li>
+</ol>
+<h1>Najczęściej zadawane pytania</h1>
+<ul>
+<li>Szybka lub ekran w moim telefonie był wcześniej wymieniany, czy mogę dalej skorzystać z usługi wymiany szybki dotyku?</li>
+</ul>
+<p>Tak, jednak czasami w tym wypadku może pojawić się konieczność wymiany całego wyświetlacza co wiąże się z dopłatą 50zł.</p>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Zazwyczaj dostarczane do nas urządzenia są naprawiane następnego dnia. O przebiegu naprawy będą Państwo na bieżąco informowani mailowo.</p>
+<ul>
+<li>Co jeżeli nie mogę przekazać telefonu kurierowi?</li>
+</ul>
+<p>W takiej sytuacji możesz wysłać urządzenie w dowolny sposób na nasz adres. Urządzenie możemy również odesłać do paczkomatu, kiosku ruchu, punktu odbioru lub w inny wybrany sposób.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza, możesz ją znaleźć na innych naszych aukcjach.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jedynie naprawa systemu lub płyty głównej resetuję dane telefonu.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Galaxy S5;naprawa-galaxy-s5;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-s5.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,galaxy,s
+;1;Naprawa Galaxy S5 mini;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej. Przy wymianie wyświetlacza lub szybki prosimy o podanie wersji kolorystycznej telefonu w dodatkowych informacjach. Możesz skorzystać z usługi door to door zaznaczając odbiór urządzenia przez kuriera poniżej lub wysłać w dowolny sposób na nasz adres: Telefonek, Porządzie 120, 07-205 Rząśnik.
+";"<div class=""tab-content-scroll"">
+<h1>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h1>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie przesyłki maksymalnie o wymiarach 25cm x 25cm x 10cm.</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować).</li>
+<li>Odbiór naprawionego urządzenia zwykle po 3 dniach od kuriera lub w inny wybrany przez klienta sposób.</li>
+</ol>
+<h1>Najczęściej zadawane pytania</h1>
+<ul>
+<li>Szybka lub ekran w moim telefonie był wcześniej wymieniany, czy mogę dalej skorzystać z usługi wymiany szybki dotyku?</li>
+</ul>
+<p>Tak, jednak czasami w tym wypadku może pojawić się konieczność wymiany całego wyświetlacza co wiąże się z dopłatą 50zł.</p>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Zazwyczaj dostarczane do nas urządzenia są naprawiane następnego dnia. O przebiegu naprawy będą Państwo na bieżąco informowani mailowo.</p>
+<ul>
+<li>Co jeżeli nie mogę przekazać telefonu kurierowi?</li>
+</ul>
+<p>W takiej sytuacji możesz wysłać urządzenie w dowolny sposób na nasz adres. Urządzenie możemy również odesłać do paczkomatu, kiosku ruchu, punktu odbioru lub w inny wybrany sposób.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza, możesz ją znaleźć na innych naszych aukcjach.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jedynie naprawa systemu lub płyty głównej resetuję dane telefonu.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Galaxy S5 mini;naprawa-galaxy-s5-mini;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-s5-mini.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,galaxy,s5,min
+;1;Naprawa Samsung Galaxy A10;Serwis GSM/Samsung;200.00;1;200.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h3>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Samsung Galaxy A10</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h3>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Samsung Galaxy A10</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w dowolnym paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób</li>
+</ol>
+<h3>Najczęściej zadawane pytania</h3>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu Samsung Galaxy A10Naprawa Samsung Galaxy A10 nie wyświetla poprawnie obrazu czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone, zalecamy jednak wykonanie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A10;naprawa-samsung-galaxy-a10;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/12/92feb9c4-c347-439a-ad19-1876e0ba735c_1.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a1
+;1;Naprawa Samsung Galaxy A20e;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h3>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Samsung Galaxy A20e</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h3>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Naprawa Samsung Galaxy A20e</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w dowolnym paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób</li>
+</ol>
+<h3>Najczęściej zadawane pytania</h3>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu Huawei Y7 2019 nie wyświetla poprawnie obrazu czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone, zalecamy jednak wykonanie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A20e;naprawa-samsung-galaxy-a20e;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/10/92feb9c4-c347-439a-ad19-1876e0ba735c_1-4.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a20
+;1;Naprawa Samsung Galaxy A21s;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A21s;naprawa-samsung-galaxy-a21s;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-9.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a21
+;1;Naprawa Samsung Galaxy A3;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A3;naprawa-samsung-galaxy-a3;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-A3.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a
+;1;Naprawa Samsung Galaxy A3 2017;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<div class=""vc_row wpb_row vc_row-fluid et_custom_uniqid_5fac24d6d6f60 mpc-row""><div class=""wpb_column vc_column_container vc_col-sm-12 et_custom_uniqid_5fac24d6d6f11 mpc-column"" data-column-id=""mpc_column-195fac24d7321c2""><div class=""vc_column-inner""><div class=""wpb_wrapper"">
+<div class=""wpb_text_column wpb_content_element"">
+<div class=""wpb_wrapper"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>
+</div>
+</div></div></div></div>
+</div>";Naprawa Samsung Galaxy A3 2017;naprawa-samsung-galaxy-a3-2017;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-a3-2017.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a3,201
+;1;Naprawa Samsung Galaxy A40;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h3>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Samsung Galaxy A40</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h3>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h3>
+<ol>
+<li>Zakup usługi naprawy telefonu Samsung Galaxy A40</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w dowolnym paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób</li>
+</ol>
+<h3>Najczęściej zadawane pytania</h3>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu Huawei Y7 2019 nie wyświetla poprawnie obrazu czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone, zalecamy jednak wykonanie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A40;naprawa-samsung-galaxy-a40;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/10/92feb9c4-c347-439a-ad19-1876e0ba735c_1-3.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a4
+;1;Naprawa Samsung Galaxy A41;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A41;naprawa-samsung-galaxy-a41;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-8.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a4
+;1;Naprawa Samsung Galaxy A5;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej. Przy wymianie wyświetlacza lub szybki prosimy o podanie wersji kolorystycznej telefonu w dodatkowych informacjach. Możesz skorzystać z usługi door to door zaznaczając odbiór urządzenia przez kuriera poniżej lub wysłać w dowolny sposób na nasz adres: Telefonek, Porządzie 120, 07-205 Rząśnik.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A5;naprawa-samsung-galaxy-a5;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-a5.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a
+;1;Naprawa Samsung Galaxy A5 2017;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A5 2017;naprawa-samsung-galaxy-a5-2017;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-a5-2017.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a5,201
+;1;Naprawa Samsung Galaxy A50;Serwis GSM/Samsung;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A50;naprawa-samsung-galaxy-a50;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-13.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a5
+;1;Naprawa Samsung Galaxy A51;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A51;naprawa-samsung-galaxy-a51;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-7.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a5
+;1;Naprawa Samsung Galaxy A7;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A7;naprawa-samsung-galaxy-a7;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-a7.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a
+;1;Naprawa Samsung Galaxy A7 2018;Serwis GSM/Samsung;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A7 2018;naprawa-samsung-galaxy-a7-2018;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/03/Galaxy-A7-2018-300x300.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a7,201
+;1;Naprawa Samsung Galaxy A70;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A70;naprawa-samsung-galaxy-a70;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/06/92feb9c4-c347-439a-ad19-1876e0ba735c_1-18.jpg;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a7
+;1;Naprawa Samsung Galaxy A71;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A71;naprawa-samsung-galaxy-a71;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-10.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a7
+;1;Naprawa Samsung Galaxy A8 2018;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy A8 2018;naprawa-samsung-galaxy-a8-2018;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/10/galaxy-a8.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,a8,201
+;1;Naprawa Samsung Galaxy J3;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J3;naprawa-samsung-galaxy-j3;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-J3.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j
+;1;Naprawa Samsung Galaxy J3 2017;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J3 2017;naprawa-samsung-galaxy-j3-2017;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-j3-2017-1.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j3,201
+;1;Naprawa Samsung Galaxy J4+;Serwis GSM/Samsung;100.00;1;100.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J4+;naprawa-samsung-galaxy-j4+;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/03/samsung-j4-300x300.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j4
+;1;Naprawa Samsung Galaxy J5;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J5;naprawa-samsung-galaxy-j5;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-J5.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j
+;1;Naprawa Samsung Galaxy J5 2017;Serwis GSM/Samsung;70.00;1;70.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J5 2017;naprawa-samsung-galaxy-j5-2017;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-j5-2017.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j5,201
+;1;Naprawa Samsung Galaxy J6+;Serwis GSM/Samsung;100.00;1;100.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę vat marża.</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J6+;naprawa-samsung-galaxy-j6+;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2019/03/samsung-j4-300x300.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j6
+;1;Naprawa Samsung Galaxy J7;Serwis GSM/Samsung;60.00;1;60.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J7;naprawa-samsung-galaxy-j7;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-J7.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j
+;1;Naprawa Samsung Galaxy J7 2017;Serwis GSM/Samsung;200.00;1;200.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy J7 2017;naprawa-samsung-galaxy-j7-2017;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2018/02/galaxy-j7-2017.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,j7,201
+;1;Naprawa Samsung Galaxy Note 8;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy Note 8;naprawa-samsung-galaxy-note-8;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-5.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,note,
+;1;Naprawa Samsung Galaxy Note 9;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy Note 9;naprawa-samsung-galaxy-note-9;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-6.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,note,
+;1;Naprawa Samsung Galaxy S10;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy S10;naprawa-samsung-galaxy-s10;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-4.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,s1
+;1;Naprawa Samsung Galaxy S10 Lite;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy S10 Lite;naprawa-samsung-galaxy-s10-lite;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-1.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,s10,lit
+;1;Naprawa Samsung Galaxy S10 Plus;Serwis GSM/Samsung;90.00;1;90.00;0;;;;;uBrokeIt;uBrokeIt;100;1;10;0;both;"
+Wybierz rodzaj usterki z rozwijanej listy poniżej lub skontaktuj się z nami aby skorzystać z darmowej ekspertyzy. Naprawa trwa 1-5 dni i objęta jest gwarancją na 180 dni. Urządzenie może odebrać kurier przy wybraniu odpowiedniej opcji, możesz nadać je w paczkomacie po wybraniu tej opcji lub wysłać w dowolny sposób na nasz adres składając uprzednio zamówienie na stronie lub telefonicznie.
+";"<div class=""tab-content-scroll"">
+<h2>Przebieg naprawy (przy wyborze odbioru przez kuriera)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia</li>
+<li>Przekazanie przesyłki kurierowi  (kurier przyjedzie wraz z dokumentem przewozowym więc nie musisz nic drukować)</li>
+<li>Odbiór naprawionego urządzenia od kuriera lub w inny wybrany przez klienta sposób</li>
+</ol>
+<h2>Przebieg naprawy (przy wyborze nadania w paczkomacie)</h2>
+<ol>
+<li>Zakup usługi naprawy telefonu</li>
+<li>Bezpieczne spakowanie urządzenia w paczkę o maksymalnych wymiarach: 19x38x64cm i naklejenie na nią etykiety wysłanej na e-maila</li>
+<li>Nadanie paczki w paczkomomacie</li>
+<li>Odbiór naprawionego urządzenia z paczkomatu lub w inny wybrany sposób.</li>
+</ol>
+<h2>Najczęściej zadawane pytania</h2>
+<ul>
+<li>Ile potrwa naprawa mojego telefonu?</li>
+</ul>
+<p>Urządzenia naprawiane są w ciągu 1-5 dni.</p>
+<ul>
+<li>Ekran mojego telefonu nie wyświetla obrazu poprawnie czy wymiana samej szybki naprawi problem?</li>
+</ul>
+<p>W takim wypadku konieczna będzie wymiana całego wyświetlacza.</p>
+<ul>
+<li>Czy otrzymam dowód zakupu ?</li>
+</ul>
+<p>Jesteśmy legalnie działająca firmą więc do każdej usługi wystawiamy paragon lub fakturę VAT</p>
+<ul>
+<li>Czy stracę dane z telefonu?</li>
+</ul>
+<p>W przypadku większości napraw dane nie zostaną naruszone. Jednak zalecamy zrobienie kopii zapasowej.</p>
+<ul>
+<li>W jakiej technologii naprawiane są ekrany?</li>
+</ul>
+<p>Ekrany naprawiane w technologi którą stosuję producent czyli OCA.</p>
+<ul>
+<li>Czy otrzymam gwarancję na naprawę ?</li>
+</ul>
+<p>Tak, na każdą naprawę udzielamy 6 miesięcy gwarancji.</p>
+</div>";Naprawa Samsung Galaxy S10 Plus;naprawa-samsung-galaxy-s10-plus;Dostępny w magazynie.;Możliwy do zamówienia.;1;https://telefonek.pl/wp-content/uploads/2020/08/92feb9c4-c347-439a-ad19-1876e0ba735c_1-3.png;1;new;0;Chwilowo niedostępny;1;etui,ochrona,pokrowiec,uBrokeIt,naprawa,samsung,galaxy,s10,plu

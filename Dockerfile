@@ -21,7 +21,7 @@ RUN chown -R www-data:www-data /var/www/html && \
 RUN sed -i "s|'biznes-db'|'${DBS_SERVER}'|g" ${PSS_CONFIGURATION_FILE}
 RUN sed -i "s|''|'${DBS_PORT}'|g" ${PSS_CONFIGURATION_FILE}
 RUN sed -i "s|'database_user' => 'root'|'database_user' => '${DBS_USER}'|g" ${PSS_CONFIGURATION_FILE}
-RUN sed -i "s|'database_password' => 'Biznes123\$'|'database_password' => '${DBS_PASSWD}'|g" ${PSS_CONFIGURATION_FILE}
+RUN sed -i "s|'database_password' => 'admin'|'database_password' => '${DBS_PASSWD}'|g" ${PSS_CONFIGURATION_FILE}
 RUN sed -i "s|'prestashop'|'${DBS_NAME}'|g" ${PSS_CONFIGURATION_FILE}
 RUN sed -i "s|'ps_'|'${DBS_PREFIX}'|g" ${PSS_CONFIGURATION_FILE}
 
