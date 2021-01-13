@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  name: ubrokeit-app-11
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+    app: ubrokeit-app-11
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: ubrokeit-app-11
+    spec:
+      containers:
+        - env:
+        image: "image_name:latest"
+        imagePullPolicy: "Always"
+        name: ubrokeit-app-11
+        ports:
+        - containerPort: 80
+        - containerPort: 443
+        resources: {}
+        restartPolicy: Always
+        serviceAccountName: ""
+        volumes: null
+status: {}
