@@ -30,7 +30,7 @@ spec:
         - containerPort: 80
         - containerPort: 443
         resources: {}
-        restartPolicy: Always
-        serviceAccountName: ""
-        volumes: null
+      restartPolicy: Always
+      serviceAccountName: ""
+      volumes: null
 status: {}

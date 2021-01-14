@@ -3,11 +3,11 @@ FROM prestashop/prestashop
 # Override prestshop/base variables' values
 ENV PSS_CONFIGURATION_FILE=/var/www/html/app/config/parameters.php \
 DBS_SERVER=biznes-db \
-DBS_NAME=prestashop \
+DBS_NAME=db_11 \
 DBS_PORT='' \
 DBS_PREFIX=ps_ \
-DBS_USER=root \
-DBS_PASSWD=admin \
+DBS_USER=user_11 \
+DBS_PASSWD=root \
 PSS_DOMAIN=localhost
 
 RUN rm -rf /var/www/html/install/
