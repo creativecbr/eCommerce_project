@@ -2,24 +2,30 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   creationTimestamp: null
-  name: ubrokeit-app-11
+  name: be-11
 spec:
   replicas: 1
   selector:
     matchLabels:
-    app: ubrokeit-app-11
+    app: be-11
   strategy: {}
   template:
     metadata:
       creationTimestamp: null
       labels:
-        app: ubrokeit-app-11
+        app: be-11
     spec:
       containers:
         - env:
-        image: "image_name:latest"
+          - name: DBS_NAME
+            value: db_11
+          - name: DBS_USER
+            value: user_11
+          - name: DBS_PASSWD
+            value: root
+        image: "172.20.83.35:5000/11:latest"
         imagePullPolicy: "Always"
-        name: ubrokeit-app-11
+        name: be-11
         ports:
         - containerPort: 80
         - containerPort: 443
