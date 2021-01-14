@@ -7,7 +7,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-    app: be-11
+      app: be-11
   strategy: {}
   template:
     metadata:
